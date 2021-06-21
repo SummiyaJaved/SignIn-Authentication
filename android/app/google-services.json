@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606779654363",
+    "project_id": "herbs-natural-cure-app",
+    "storage_bucket": "herbs-natural-cure-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606779654363:android:1f233102187968cf908cfe",
+        "android_client_info": {
+          "package_name": "com.example.herbs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606779654363-hpuvvpt7v9gu2m9mphcjv613hppt3eo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCg1I_YNGzK6rbdQmRe2LWXOvX3VNIRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606779654363-hpuvvpt7v9gu2m9mphcjv613hppt3eo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
